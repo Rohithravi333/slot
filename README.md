@@ -17,6 +17,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
